@@ -1,0 +1,11 @@
+BODY { FONT-SIZE: 12px; Background-Color: #bcbcac; COLOR: #333333; FONT-FAMILY: Terminal, Arial }
+.label { COLOR: #7f007f; font-weight:bold }
+.inst { COLOR: #0000cf; font-weight:normal }
+.raw { COLOR: #007070; }
+.comm { COLOR: #007070; }
+.sys { COLOR: #7f007f; font-weight:bold }
+.link { COLOR: #a0373f; TEXT-DECORATION: underline }
+.link:hover { COLOR: red }
+.dlink { COLOR: #502f0f; TEXT-DECORATION: underline }
+.dlink:hover { COLOR: red }
+.data { COLOR: #303030; FONT-SIZE: 11px; FONT-FAMILY:Courier New; }
